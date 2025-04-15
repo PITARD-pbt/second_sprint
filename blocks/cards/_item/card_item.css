@@ -1,0 +1,11 @@
+.cards_item{
+    text-align: center;
+    width: 240px;
+    padding-top: 60px;
+  }
+
+
+.cards_item:nth-child(3n + 2) {
+  padding-left: 100px;
+  padding-right: 100px;
+}

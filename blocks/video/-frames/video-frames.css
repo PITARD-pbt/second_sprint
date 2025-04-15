@@ -1,0 +1,8 @@
+.video-frames{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    overflow: visible;
+    width: calc(515px * 2 + 20px);
+    height: calc(316px - 50px);
+  }
